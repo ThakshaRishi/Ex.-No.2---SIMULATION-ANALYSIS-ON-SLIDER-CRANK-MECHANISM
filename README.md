@@ -45,8 +45,7 @@
 
 ## Output
 
-![image](https://github.com/ThakshaRishi/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870423/dbae0016-c713-4148-b592-dab73441a012)
-
+![image](https://github.com/ThakshaRishi/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870423/7eb2a9f1-6fbf-44c3-b2fa-d19e6dd9c387)
 
 ### Name:Thaksha Rishi
 ### Register Number: 212223100058
